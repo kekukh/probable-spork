@@ -1,5 +1,4 @@
-module github.com/fixme_my_friend/hw02_unpack_string
-
+module github.com/kekukh/probable-spork/hw02_unpack_string
 go 1.19
 
 require github.com/stretchr/testify v1.7.0
